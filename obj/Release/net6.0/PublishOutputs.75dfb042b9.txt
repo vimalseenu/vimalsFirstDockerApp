@@ -1,0 +1,7 @@
+G:\Projects\.NET Projects\VSCodeDockerApp1\appbuild\VSCodeDockerApp1.exe
+G:\Projects\.NET Projects\VSCodeDockerApp1\appbuild\appsettings.Development.json
+G:\Projects\.NET Projects\VSCodeDockerApp1\appbuild\appsettings.json
+G:\Projects\.NET Projects\VSCodeDockerApp1\appbuild\VSCodeDockerApp1.dll
+G:\Projects\.NET Projects\VSCodeDockerApp1\appbuild\VSCodeDockerApp1.deps.json
+G:\Projects\.NET Projects\VSCodeDockerApp1\appbuild\VSCodeDockerApp1.runtimeconfig.json
+G:\Projects\.NET Projects\VSCodeDockerApp1\appbuild\VSCodeDockerApp1.pdb

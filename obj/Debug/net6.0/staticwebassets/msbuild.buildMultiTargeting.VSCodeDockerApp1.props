@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VSCodeDockerApp1.props" />
+</Project>
